@@ -32,24 +32,11 @@ module.exports = {
         use: [
           {
             loader: MiniCssExtractPlugin.loader,
-            // options: {
-            //   hmr: process.env.NODE_ENV === "development",
-            // },
           },
           "css-loader",
-          // "postcss-loader",
           "sass-loader",
         ],
       },
-      // {
-      //   test: /\.scss$/i,
-      //   use: ["style-loader", "css-loader", "sass-loader"],
-      //   // use: [MiniCssExtractPlugin.loader, "sass-loader"],
-      // },
-      // {
-      //   test: /\.css$/i,
-      //   use: [MiniCssExtractPlugin.loader, "css-loader"],
-      // },
       {
         test: /\.jpg$/,
         loader: "file-loader",
