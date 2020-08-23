@@ -4,6 +4,12 @@ Para testar:
 npm install
 npm start
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 - ES6+ e JS puro
 - Webpack com Dev Server, Hot Reload, Babel e CSS/SASS Loader com MiniCssExtractPlugin para evitar FOUC
 - Normalize.css e SASS para estilos
