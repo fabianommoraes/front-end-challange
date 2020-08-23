@@ -1,13 +1,11 @@
 # front-end-challange
 
 Para testar:
-npm install
-npm start
+
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+npm install
+npm start
 ```
 
 - ES6+ e JS puro
