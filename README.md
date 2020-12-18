@@ -1,5 +1,7 @@
-# QConcursos - https://github.com/IsabelRubim/desafio-frontend
+# QConcursos
 # front-end-challange
+
+https://github.com/IsabelRubim/desafio-frontend
 
 Para testar:
 
